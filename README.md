@@ -1,2 +1,2 @@
 # web3rsvp
- this is a code for a dapp i am currently workimg on/30daysofweb3  
+ this is a code for a dapp i am currently working on //30daysofweb3  
