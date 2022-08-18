@@ -11,13 +11,13 @@
   "script": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "hardhat": "^2.10.1"
   },
   "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
     "abort-controller": "^3.0.0",
     "abstract-leveldown": "^6.3.0",
     "adm-zip": "^0.4.16",
@@ -72,6 +72,7 @@
     "deferred-leveldown": "^5.3.0",
     "depd": "^2.0.0",
     "diff": "^5.0.0",
+    "dotenv": "^16.0.1",
     "elliptic": "^6.5.4",
     "emoji-regex": "^8.0.0",
     "encoding-down": "^6.3.0",
@@ -236,6 +237,4 @@
     "yocto-queue": "^0.1.0"
   },
   "description": ""
-
 }
-
